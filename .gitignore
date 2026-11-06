@@ -1,0 +1,5 @@
+# All files with the .dll extension
+*.dll
+
+# The temp folder
+temp/
